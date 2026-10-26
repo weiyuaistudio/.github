@@ -1,20 +1,104 @@
-# 未屿AIStudio
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/studio-hero-mobile.svg">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/studio-hero.svg" alt="未屿 AI Studio — 把复杂问题，做成好用的软件。电力交易、加密与代码保护、个人工作寻找器。" width="100%">
+</picture>
 
-## 你負責創造，我們負責程式碼保護。
+<p align="center">
+  <strong>未屿 AI Studio · 独立软件产品工作室</strong><br>
+  将算法、工程与产品设计结合，为专业业务和个人工作构建实用的软件。
+</p>
 
-**SOEnc — Python 原始碼保護、軟體授權與商業交付**
+<p align="center">
+  <a href="#power-trading">电力交易</a> &nbsp; / &nbsp;
+  <a href="#code-protection">加密与代码保护</a> &nbsp; / &nbsp;
+  <a href="#career-discovery">个人工作寻找器</a> &nbsp; / &nbsp;
+  <a href="#contact">交流合作</a>
+</p>
 
-你的 Token、除錯、測試與工程經驗，已經沉澱在原創實作裡。SOEnc 希望提高核心程式碼被直接提取與複用的門檻，並降低使用保護工具所需的學習和交付成本。
+## 三个方向，同样认真
 
-無須先學加密演算法。從網頁上傳專案，選擇保護與授權用途，下載可核驗的交付材料。
+<a name="power-trading"></a>
 
-- **整專案 / 指定模組保護**：程式碼保護、原生編譯與必要相依範圍確認。
-- **3 天試用 / 365 天正式授權**：獨立簽章授權檔；符合條件時續期無須重新編譯。
-- **完整交付材料**：受保護程式、客戶授權檔、公開報告和驗證工具。
-- **加密原始碼保險庫**：原始碼封存、核驗與恢復。
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-mobile-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-light.svg#gh-light-mode-only" alt="01 · 电力交易 / Power &amp; Trading" width="100%">
+</picture>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-mobile-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-dark.svg#gh-dark-mode-only" alt="01 · 电力交易 / Power &amp; Trading" width="100%">
+</picture>
 
-**[完整三語產品介紹](https://github.com/weiyuaistudio/soenc-python-protection)** · **[開啟展示站與公開範例](https://soenc-saksim-free-beta.onrender.com/?utm_source=github&utm_medium=org_profile&utm_campaign=soenc_040)**
+**以预测、回测与可视化，支持电力交易研究与决策。**
 
-目前雲端可運行產物面向 Linux x86_64 / CPython 3.11；實際功能依配置、權益與專案相容性提供。保護提高提取與複用成本，不承諾無法破解。免費展示環境仍為 Preview，完成後請及時保存交付材料。
+围绕电力市场的业务问题，构建从数据分析到策略评估的软件工具，让研究结果更容易理解、比较和应用。
 
-本組織的 SOEnc 公開展示不包含付費產品原始碼。平台使用權與產品原始碼授權請分別洽詢。
+`预测研究` &nbsp; `策略回测` &nbsp; `业务可视化`
+
+**[交流电力业务需求 ↗](mailto:wh13624@my.bristol.ac.uk?subject=WEIYU%20%7C%20Power%20Trading)** &nbsp; · &nbsp; 联系了解产品与合作方式
+
+<br>
+
+<a name="code-protection"></a>
+
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-mobile-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-light.svg#gh-light-mode-only" alt="02 · 加密与代码保护 / SOEnc" width="100%">
+</picture>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-mobile-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-dark.svg#gh-dark-mode-only" alt="02 · 加密与代码保护 / SOEnc" width="100%">
+</picture>
+
+**SOEnc — 交付你的软件，保护核心实现。**
+
+为 Python 项目提供源码保护、原生编译与软件授权，将保护、授权和核验串成清晰的交付流程。
+
+`源码保护` &nbsp; `软件授权` &nbsp; `交付核验`
+
+**[了解 SOEnc ↗](https://github.com/weiyuaistudio/soenc-python-protection)** &nbsp; · &nbsp; **[打开演示 ↗](https://soenc-saksim-free-beta.onrender.com/?utm_source=github&utm_medium=org_profile&utm_campaign=studio_portfolio)** &nbsp; <sub>Preview</sub>
+
+<br>
+
+<a name="career-discovery"></a>
+
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-mobile-light.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-light.svg#gh-light-mode-only" alt="03 · 个人工作寻找器 / Vibe Job Radar" width="100%">
+</picture>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-mobile-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-dark.svg#gh-dark-mode-only" alt="03 · 个人工作寻找器 / Vibe Job Radar" width="100%">
+</picture>
+
+**Vibe Job Radar — 让个人能力有据可循。**
+
+面向个人求职的本地工作台：拆解岗位中的 AI 编程要求，关联个人项目证据，整理可核对的能力描述与差距清单。
+
+`岗位研究` &nbsp; `要求拆解` &nbsp; `个人证据`
+
+**[了解 Vibe Job Radar ↗](https://github.com/saksim/vibe_job_radar)** &nbsp; · &nbsp; **[下载公开版本 ↗](https://github.com/saksim/vibe_job_radar/releases)** &nbsp; <sub>本地工作台</sub>
+
+<br>
+
+---
+
+<a name="contact"></a>
+
+### 从一个真实问题开始合作
+
+电力业务、软件保护，或个人求职中的新问题——欢迎告诉我们你的场景、现状与目标。
+
+**[联系未屿 AI Studio ↗](mailto:wh13624@my.bristol.ac.uk?subject=WEIYU%20Studio%20%7C%20Collaboration)** &nbsp; · &nbsp; [浏览公开项目](https://github.com/orgs/weiyuaistudio/repositories)
+
+<details>
+<summary>English · About the studio</summary>
+
+**WEIYU AI Studio** is an independent software studio building products for power trading, code protection, and personal career discovery.
+
+- **Power & Trading** — Forecasting, backtesting, and visualization for trading research and decision support. [Discuss your needs](mailto:wh13624@my.bristol.ac.uk?subject=WEIYU%20%7C%20Power%20Trading).
+- **[SOEnc](https://github.com/weiyuaistudio/soenc-python-protection)** — Python source protection, native builds, and licensed software delivery. A public preview is available.
+- **[Vibe Job Radar](https://github.com/saksim/vibe_job_radar)** — A local job research workspace connecting AI coding requirements in real job descriptions with personal project evidence. [Browse releases](https://github.com/saksim/vibe_job_radar/releases).
+
+**Built for real work. Designed for people.**
+
+</details>
