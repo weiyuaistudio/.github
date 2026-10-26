@@ -38,7 +38,7 @@
 
 `预测研究` &nbsp; `策略回测` &nbsp; `业务可视化`
 
-**[交流电力业务需求 ↗](mailto:wh13624@my.bristol.ac.uk?subject=WEIYU%20%7C%20Power%20Trading)** &nbsp; · &nbsp; 联系了解产品与合作方式
+**[交流电力业务需求 ↗](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20%7C%20Power%20Trading)** &nbsp; · &nbsp; 联系了解产品与合作方式
 
 <br>
 
@@ -100,14 +100,14 @@
 
 电力业务、软件保护，或个人求职中的新问题——欢迎告诉我们你的场景、现状与目标。
 
-**[联系未屿 AI Studio ↗](mailto:wh13624@my.bristol.ac.uk?subject=WEIYU%20Studio%20%7C%20Collaboration)** &nbsp; · &nbsp; [浏览公开项目](https://github.com/orgs/weiyuaistudio/repositories)
+**[联系未屿 AI Studio ↗](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20Studio%20%7C%20Collaboration)** &nbsp; · &nbsp; [浏览公开项目](https://github.com/orgs/weiyuaistudio/repositories)
 
 <details>
 <summary>English · About the studio</summary>
 
 **WEIYU AI Studio** is an independent software studio building products for power trading, code protection, and personal career discovery.
 
-- **Power & Trading** — Forecasting, backtesting, and visualization for trading research and decision support. [Discuss your needs](mailto:wh13624@my.bristol.ac.uk?subject=WEIYU%20%7C%20Power%20Trading).
+- **Power & Trading** — Forecasting, backtesting, and visualization for trading research and decision support. [Discuss your needs](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20%7C%20Power%20Trading).
 - **[SOEnc](https://github.com/weiyuaistudio/soenc-python-protection)** — Python source protection, native builds, and licensed software delivery. A public preview is available.
 - **[Vibe Job Radar](https://github.com/saksim/vibe_job_radar)** — A local job research workspace connecting AI coding requirements in real job descriptions with personal project evidence. [Browse releases](https://github.com/saksim/vibe_job_radar/releases).
 
