@@ -19,14 +19,18 @@
 
 <a name="power-trading"></a>
 
+<a href="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-light.svg#gh-light-mode-only">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-mobile-light.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-light.svg#gh-light-mode-only" alt="01 · 电力交易 / Power &amp; Trading" width="100%">
 </picture>
+</a>
+<a href="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-dark.svg#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-mobile-dark.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-power-dark.svg#gh-dark-mode-only" alt="01 · 电力交易 / Power &amp; Trading" width="100%">
 </picture>
+</a>
 
 **以预测、回测与可视化，支持电力交易研究与决策。**
 
@@ -40,14 +44,18 @@
 
 <a name="code-protection"></a>
 
+<a href="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-light.svg#gh-light-mode-only">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-mobile-light.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-light.svg#gh-light-mode-only" alt="02 · 加密与代码保护 / SOEnc" width="100%">
 </picture>
+</a>
+<a href="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-dark.svg#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-mobile-dark.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-code-dark.svg#gh-dark-mode-only" alt="02 · 加密与代码保护 / SOEnc" width="100%">
 </picture>
+</a>
 
 **SOEnc — 交付你的软件，保护核心实现。**
 
@@ -61,14 +69,18 @@
 
 <a name="career-discovery"></a>
 
+<a href="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-light.svg#gh-light-mode-only">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-mobile-light.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-light.svg#gh-light-mode-only" alt="03 · 个人工作寻找器 / Vibe Job Radar" width="100%">
 </picture>
+</a>
+<a href="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-dark.svg#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-mobile-dark.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/weiyuaistudio/.github/main/profile/assets/product-career-dark.svg#gh-dark-mode-only" alt="03 · 个人工作寻找器 / Vibe Job Radar" width="100%">
 </picture>
+</a>
 
 **Vibe Job Radar — 让个人能力有据可循。**
 
