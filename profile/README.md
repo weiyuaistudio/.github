@@ -38,7 +38,7 @@
 
 `预测研究` &nbsp; `策略回测` &nbsp; `业务可视化`
 
-**[交流电力业务需求 ↗](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20%7C%20Power%20Trading)** &nbsp; · &nbsp; 联系了解产品与合作方式
+**[了解 GD-PVP ↗](https://github.com/weiyuaistudio/GD-PVP)** &nbsp; · &nbsp; **[交流电力业务需求 ↗](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20%7C%20Power%20Trading)**
 
 <br>
 
@@ -107,7 +107,7 @@
 
 **WEIYU AI Studio** is an independent software studio building products for power trading, code protection, and personal career discovery.
 
-- **Power & Trading** — Forecasting, backtesting, and visualization for trading research and decision support. [Discuss your needs](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20%7C%20Power%20Trading).
+- **[GD-PVP · Power & Trading](https://github.com/weiyuaistudio/GD-PVP)** — Forecasting, backtesting, and visualization for trading research and decision support. [Discuss your needs](mailto:weiyuaistudio@outlook.com?subject=WEIYU%20%7C%20Power%20Trading).
 - **[SOEnc](https://github.com/weiyuaistudio/soenc-python-protection)** — Python source protection, native builds, and licensed software delivery. A public preview is available.
 - **[Vibe Job Radar](https://github.com/saksim/vibe_job_radar)** — A local job research workspace connecting AI coding requirements in real job descriptions with personal project evidence. [Browse releases](https://github.com/saksim/vibe_job_radar/releases).
 
